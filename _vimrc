@@ -151,7 +151,7 @@ set clipboard+=unnamed
 set linespace=5
 
 " 设置字体和大小
-set guifont=Bitstream_Vera_Sans_Mono:h12:cANSI
+set guifont=Microsoft\ Yahei\ Mono:h11.5
 
 "启动的时候不显示那个援助索马里儿童的提示 
 set shortmess=atI 
